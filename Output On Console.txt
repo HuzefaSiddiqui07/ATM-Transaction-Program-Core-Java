@@ -1,0 +1,65 @@
+=*=*=*=*=*=*=*=*=*=*=*Automated Teller Machine=*=*=*=*=*=*=*=*=*=*=*
+
+Choose 1 for Withdraw
+Choose 2 for Deposit
+Choose 3 for Check Balance
+Choose 4 for EXIT
+
+===========================================================
+Choose the operation you want to perform: 
+1
+Enter money to be withdrawn:
+47000
+Please collect your money...
+===========================================================
+
+=*=*=*=*=*=*=*=*=*=*=*Automated Teller Machine=*=*=*=*=*=*=*=*=*=*=*
+
+Choose 1 for Withdraw
+Choose 2 for Deposit
+Choose 3 for Check Balance
+Choose 4 for EXIT
+
+===========================================================
+Choose the operation you want to perform: 
+3
+Balance : 53000
+===========================================================
+
+=*=*=*=*=*=*=*=*=*=*=*Automated Teller Machine=*=*=*=*=*=*=*=*=*=*=*
+
+Choose 1 for Withdraw
+Choose 2 for Deposit
+Choose 3 for Check Balance
+Choose 4 for EXIT
+
+===========================================================
+Choose the operation you want to perform: 
+2
+Enter money to be deposited:17000
+Your Money has been successfully deposited
+===========================================================
+
+=*=*=*=*=*=*=*=*=*=*=*Automated Teller Machine=*=*=*=*=*=*=*=*=*=*=*
+
+Choose 1 for Withdraw
+Choose 2 for Deposit
+Choose 3 for Check Balance
+Choose 4 for EXIT
+
+===========================================================
+Choose the operation you want to perform: 
+3
+Balance : 70000
+===========================================================
+
+=*=*=*=*=*=*=*=*=*=*=*Automated Teller Machine=*=*=*=*=*=*=*=*=*=*=*
+
+Choose 1 for Withdraw
+Choose 2 for Deposit
+Choose 3 for Check Balance
+Choose 4 for EXIT
+
+===========================================================
+Choose the operation you want to perform: 
+4
